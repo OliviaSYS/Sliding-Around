@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://glk5qhc81vs7"
-path="res://.godot/imported/SlidingAround.icon.png-d5a06cfdb11009afea73ead49a384c0c.ctex"
+path="res://.godot/imported/SlidingAround.icon.png-8d957031b9af7e1ea20820628b3569c3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://SlidingAround.icon.png"
-dest_files=["res://.godot/imported/SlidingAround.icon.png-d5a06cfdb11009afea73ead49a384c0c.ctex"]
+source_file="res://Sliding-Around/SlidingAround.icon.png"
+dest_files=["res://.godot/imported/SlidingAround.icon.png-8d957031b9af7e1ea20820628b3569c3.ctex"]
 
 [params]
 

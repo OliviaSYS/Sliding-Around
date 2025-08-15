@@ -6,11 +6,11 @@ This 2D game was created using the Godot Game Engine.
 
 This is what the beginning looks like:.
 
-<img width="850" height="470" alt="beginning" src="https://github.com/user-attachments/assets/c7946747-f14c-4e28-8777-5559e57d0410" />
+<img width="850" height="477" alt="beginning" src="https://github.com/user-attachments/assets/ee596d3e-76de-4bfb-a58d-6bb50dbee04e" />
 
 Here's a sneak peek of reaching the end!
 
-<img width="850" height="477" alt="ending" src="https://github.com/user-attachments/assets/ee596d3e-76de-4bfb-a58d-6bb50dbee04e" />
+<img width="850" height="470" alt="ending" src="https://github.com/user-attachments/assets/c7946747-f14c-4e28-8777-5559e57d0410" />
 
 # Itch.io
 Here is my playable itch.io link: [Click Here!](https://opu314.itch.io/sliding-around)

@@ -4,7 +4,7 @@ This is a Winter platformer with a penguin as the player and an icy background a
 This 2D game was created using the Godot Game Engine.
 # Snippets of My Game
 
-This is what the beginning looks like:.
+This is what the beginning looks like:
 
 <img width="850" height="477" alt="beginning" src="https://github.com/user-attachments/assets/ee596d3e-76de-4bfb-a58d-6bb50dbee04e" />
 

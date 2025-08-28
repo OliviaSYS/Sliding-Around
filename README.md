@@ -1,18 +1,18 @@
 # Sliding Around
-This is a Winter platformer with a penguin as the player and an icy background as a course to navigate.   Use arrow keys to move around and double jump by pressing the up key two times. Have fun!
+This is a Winter platformer with a penguin as the player and an icy background as a course to navigate.   Use arrow keys to move around and double jump by pressing the up key two times. To hear the ethereal Winter music in the background and the player's sound effects, turn on your sound:) Along the way, try to collect all the cubes available and reach the goal: 25 cubes at the finish. Have fun!
 # Tech
 This 2D game was created using the Godot Game Engine.
 # Snippets of My Game
 
 This is what the beginning looks like:
 
-<img width="850" height="477" alt="beginning" src="https://github.com/user-attachments/assets/ee596d3e-76de-4bfb-a58d-6bb50dbee04e" />
+<img width="1920" height="950" alt="devloglastUpdate" src="https://github.com/user-attachments/assets/8eecff36-5c8f-4089-8722-8a0d4a28eb09" />
 
 Here's a sneak peek of reaching the end!
 
-<img width="850" height="470" alt="ending" src="https://github.com/user-attachments/assets/c7946747-f14c-4e28-8777-5559e57d0410" />
+<img width="1148" height="641" alt="icedevlog" src="https://github.com/user-attachments/assets/844a1123-9916-4aeb-ae30-cba6dbe3f829" />
 
 # Itch.io
 Here is my playable itch.io link: [Click Here!](https://opu314.itch.io/sliding-around)
 # Note
-This project was submitted to Jumpstart, a YSWS in Hack Club.
+The original project (without updates) was submitted to Jumpstart, a YSWS in Hack Club.

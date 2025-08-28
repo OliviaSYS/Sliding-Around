@@ -1,5 +1,8 @@
 # Sliding Around
-This is a Winter platformer with a penguin as the player and an icy background as a course to navigate.   Use arrow keys to move around and double jump by pressing the up key two times. To hear the ethereal Winter music in the background and the player's sound effects, turn on your sound:) Along the way, try to collect all the cubes available and reach the goal: 25 cubes at the finish. Have fun!
+This is a Winter platformer with a penguin as the player and an icy background as a course to navigate.   Use arrow keys to move around and double jump by pressing the up key two times. 
+To hear the ethereal Winter music in the background and the player's sound effects, turn on your sound:) 
+NOTE: Mobile is not recommended as it will cause errors to occur. Try the best quality of this game using desktop.
+Along the way, try to collect all the cubes available and reach the goal: 25 cubes at the finish. Have fun!
 # Tech
 This 2D game was created using the Godot Game Engine.
 # Snippets of My Game
